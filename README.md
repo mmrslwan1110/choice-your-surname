@@ -1,2 +1,3 @@
 # choice-your-surname
-## 本程序属于个人产品
+## GUI 请用matlab运行
+
